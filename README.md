@@ -8,5 +8,4 @@ This script will help to automate mass sosreport analysis.
 * d)   A cumulative log will be placed in the working directory
 
 # Dependencies: xsos unzip tar unxz
-  Authors:      Please submit feedback to ben.morgan@canonical.com
 
